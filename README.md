@@ -1,0 +1,1 @@
+This project is about the basics of HTML and CSS; whivh is about creating a simple webpage.
